@@ -11,7 +11,7 @@ body{
    
 }
 header{
-    width: 600px;
+    
     /*position:-webkit-sticky;*/
     background: #000000;
     box-shadow: 0px 10px 7px rgba(0,0,0,.25);
@@ -130,7 +130,7 @@ header{
 
 }
 .descuento{
-    width: 600px;
+   
     height: 30px;
     left: 0px;
     top: 0px;
@@ -158,12 +158,12 @@ footer{
     font: Roboto;
     color: #F3F3F3;
     text-align: center;
- 
+    width: 100%;
     height: 80px;
     left: -136px;
     background: #46474788;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    width: 600px;
+
 }
 .gif{
     left: 500px;
